@@ -2,7 +2,7 @@
 
 跟OneManager一样，可以部署在Heroku/Glitch/SCF/CFC/FC/FG上。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qkqpttgf/OfficeAdmin)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xgit10086/OffAd)
 
 绑定时，登录微软帐号，授权给程序，  
 程序自动帮你创建一个client id，自动添加3个权限，  
